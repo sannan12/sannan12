@@ -1,4 +1,4 @@
-![](https://github.com/sannan12/sannan12/blob/main/header1.png)
+![](https://github.com/sannan12/sannan12/blob/main/header2.png)
 <h1 align="center">Nice to meet you! I am Sannan Ahmed Tahir 👋</h1>
 
 
