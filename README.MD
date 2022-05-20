@@ -16,4 +16,4 @@ I am a student at SZABIST University, Pakistan, and currently voluntarily workin
 
 | GitHub Stats | Most Used Languages |
 | ------------- | ------------- |
-| ![Sannan Ahmed Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=sannan12&show_icons=true)  | ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sannan12&layout=compact) |
+| ![Sannan Ahmed Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=sannan12&show_icons=true)  |
