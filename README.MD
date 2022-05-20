@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/sannan-ahmed-tahir-05ab45196/"><img height="30" src="https://github.com/sannan12/sannan12/blob/main/linkedin.png?raw=true"></a>
 &nbsp;&nbsp;
 </p>
-I am a student at SZABIST University, Pakistan, and currently voluntarily working as a Software Developer for Wikimedia Foundation. I am passionate about the latest trends in technology and am always in search of my next challenge. 
+I am a student at SZABIST University, Pakistan, and currently voluntarily working as a Software Developer for Wikimedia Foundation. I am passionate about the latest trends in technology and am always in search of my next set of challenges.
 
 
 <br/><br/>
