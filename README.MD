@@ -13,7 +13,8 @@ I am a student at SZABIST University, Pakistan, and currently voluntarily workin
 [![Profile Views](https://komarev.com/ghpvc/?username=sannan12&color=blue&style=plastic)](https://github.com/sannan12) <br>
 
 
-
+<p align="center">
 | GitHub Stats |
 | ------------- | 
 | ![Sannan Ahmed Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=sannan12&show_icons=true)  |
+</p>
